@@ -1,0 +1,31 @@
+# platform :ios, '9.0'
+
+target 'project1' do
+  use_frameworks!
+
+  # Pods for project1
+	pod ‘Alamofire’
+ 	pod ‘ObjectMapper’, ‘~> 3.1’
+ 	pod ‘DropDown’
+ 	pod ‘UIDropDown’
+ 	pod ‘Kingfisher’, ‘~> 4.0’
+ 	pod ‘ImagePicker’
+ 	pod ‘IQKeyboardManager’
+ 	pod 'BetterSegmentedControl', '~> 1.2'
+ 	pod ‘ShimmerSwift’
+ 	pod ‘ListPlaceholder’
+ 	pod ‘LXStatusAlert’
+ 	pod ‘UIScrollView-InfiniteScroll’, ‘~> 1.1.0’
+ 	pod ‘UIView+Shake’
+ 	pod ‘EMSpinnerButton’
+ 	pod ‘SSSpinnerButton’
+ 	pod ‘Firebase/Core’
+ 	pod 'NotificationBannerSwift', '~> 3.0.0'
+ 	pod ‘FirebaseMessaging’
+ 	pod ‘SnapKit’, '~> 5.0.0'
+ 	pod ‘SWRevealViewController’
+	pod 'XLPagerTabStrip', '~> 9.0'
+	pod 'NVActivityIndicatorView'
+	pod 'FTIndicator'
+	pod 'PullToMakeSoup', '~> 2.0'	
+end

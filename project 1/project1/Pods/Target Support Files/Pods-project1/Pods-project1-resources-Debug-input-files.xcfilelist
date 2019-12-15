@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-project1/Pods-project1-resources.sh
+${PODS_ROOT}/DropDown/DropDown/resources/DropDownCell.xib
+${PODS_ROOT}/FTIndicator/FTIndicator/FTProgressIndicator/FTProgressIndicator.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/IQKeyboardManager/IQKeyboardManager.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/ImagePicker/ImagePicker.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/XLPagerTabStrip/XLPagerTabStrip.bundle
